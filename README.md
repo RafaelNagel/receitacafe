@@ -61,7 +61,7 @@ O mocaccino (ou mochaccino) é uma bebida à base de espresso e chocolate, com l
 - Arthur
 - David
 - Kaio
-- Lucas
+- Luan
 - Rafael
 
 Feito com carinho! :)
