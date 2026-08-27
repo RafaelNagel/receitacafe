@@ -63,5 +63,5 @@ O mocaccino (ou mochaccino) é uma bebida à base de espresso e chocolate, com l
 - Kaio
 - Lucas
 - Rafael
-Receita criada por você — feita com carinho.  
-Quer que eu gere uma versão sem ingredientes e modo de preparo para um cartaz, ou prefira que eu coloque essas seções em arquivos separados (ex: INGREDIENTS.md / PREPARATION.md)? Posso fazer.
+
+Feito com carinho! :)
